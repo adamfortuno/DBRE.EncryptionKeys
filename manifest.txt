@@ -1,0 +1,4 @@
+.\DBRE.EncryptionKeys.psd1
+.\DBRE.EncryptionKeys.psm1
+.\functions
+.\functions\*.ps1
